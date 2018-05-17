@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["a","console","log","b","c"],"mappings":";;AAAA,IAAIA,IAAI,CAAR;AACAC,QAAQC,GAAR,CAAYF,CAAZ;AACA,IAAIG,IAAI,CAAR;AACA,IAAIC,IAAG,CAAP","file":"index.js","sourcesContent":["let a = 1;\r\nconsole.log(a)\r\nlet b = 2;\r\nlet c= 3;\r\n"]}
